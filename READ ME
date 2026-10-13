@@ -1,0 +1,21 @@
+# Investigating the Impact of Identity Theft on Artist Profiles on Facebook
+
+This repository contains the research documentation, data gathering instruments, pilot study records, and statistical analysis data for the undergraduate research project titled **"Investigating the Impact of Identity Theft on Artist Profiles on Facebook"**. 
+
+This study is part of the Bachelor of Information Technology (Honours) degree program (Level 4 - Semester 2) for the module **CCU4303 - Research Methodology for IT Professionals** at ESOFT Metro Campus.
+
+---
+
+## Project Overview
+
+With the rapid shift of artists promoting and showcasing their portfolios on online social networks like Facebook, digital presence has become increasingly vulnerable to cybercrimes, particularly identity theft, account cloning, and unauthorized artwork usage. This research explores the types and frequency of identity theft incidents, evaluates their psychological, reputational, and financial consequences on artists, and assesses current platform and individual security measures.
+
+---
+
+## Repository Structure
+
+```text
+├── INVESTIGATING THE IMPACT OF IDENTITY THEFT ON ARTIST PROFILES ON FACEBOOK.pdf          # Full Research Proposal / Report
+├── INVESTIGATING THE IMPACT OF IDENTITY THEFT ON ARTIST PROFILES ON FACEBOOK - Testing Data Analysis.pdf  # SPSS Testing & Statistical Analysis Documentation
+├── INVESTIGATING THE IMPACT OF IDENTITY THEFT ON ARTIST PROFILES ON FACEBOOK - Testing Data Gathering (Responses).CSV  # Survey & Pilot Study Dataset
+└── README.md
